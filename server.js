@@ -31,14 +31,14 @@ const IDler = {
   kodLogKanalı: "844855105177518090",
   sahipRolü: "844128668800254016",
   adminRolü: "844128673057210379",
-  kodPaylaşımcıRolü: "Kod Paylaşımcı ROLÜ",
-  boosterRolü: "Booster ROLÜ",
-  kodPaylaşamayacakRoller: ["BANLI ROL İD", "BANLI ROL İD"],
-  hazırAltyapılarRolü: "Altyapı ROL İD",
-  hazırSistemlerRolü: "Sizden Gelenler ROL İD",
-  elmasKodlarRolü: "Elmas Kodlar ROL İD",
-  altınKodlarRolü: "Altın Kodlar ROL İD",
-  normalKodlarRolü: "normal kodlar rol id"
+  kodPaylaşımcıRolü: "844855998283907112",
+  boosterRolü: "844856188948447292",
+  kodPaylaşamayacakRoller: ["844146143809896498", "844856663164321813"],
+  hazırAltyapılarRolü: "844856951510007838",
+  hazırSistemlerRolü: "844856957738418186",
+  elmasKodlarRolü: "844856996997890068",
+  altınKodlarRolü: "844857001242656798",
+  normalKodlarRolü: "844857006787264532"
 };
 
 const app = express();
